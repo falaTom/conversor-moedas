@@ -1,6 +1,3 @@
-Aqui está um modelo de README bem estruturado e profissional para o seu projeto de **Conversor de Moedas** em Java. Ele segue boas práticas de documentação e pode ser adaptado conforme você quiser:
-
----
 
 # 💰 Conversor de Moedas
 
@@ -18,8 +15,9 @@ O programa oferece uma interface de console interativa com opções de conversã
 - 🇪🇺 **Euro (EUR)** → 🇧🇷 **Real Brasileiro (BRL)**  
 - 🇧🇷 **Real Brasileiro (BRL)** → 🇻🇪 **Bolívar Venezuelano (VES)**  
 - 🇺🇸 **Dólar Americano (USD)** → 🇻🇪 **Bolívar Venezuelano (VES)**  
-- 🇪🇺 **Euro (EUR)** → 🇦🇷 **Peso Argentino (ARS)**  
-
+- 🇪🇺 **Euro (EUR)** → 🇦🇷 **Peso Argentino (ARS)**
+    
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/468db10c-4b7f-44af-bf72-ca63356ee900" />
 ---
 
 ## 🛠️ Tecnologias Utilizadas
