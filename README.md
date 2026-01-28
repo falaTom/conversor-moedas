@@ -1,5 +1,6 @@
 
 # 💰 Conversor de Moedas
+<img width="1920" height="1035" alt="Image" src="https://github.com/user-attachments/assets/6d2e8a20-b982-4e5c-aea7-87d253f390d5" />
 
 Este projeto foi desenvolvido como parte do desafio **Oracle Next Education (ONE)** em parceria com a **Alura**.  
 O objetivo principal é praticar conceitos de **Java**, consumo de **APIs** e manipulação de **JSON**.
@@ -17,7 +18,6 @@ O programa oferece uma interface de console interativa com opções de conversã
 - 🇺🇸 **Dólar Americano (USD)** → 🇻🇪 **Bolívar Venezuelano (VES)**  
 - 🇪🇺 **Euro (EUR)** → 🇦🇷 **Peso Argentino (ARS)**
     
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/468db10c-4b7f-44af-bf72-ca63356ee900" />
 ---
 
 ## 🛠️ Tecnologias Utilizadas
