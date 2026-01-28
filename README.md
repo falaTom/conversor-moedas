@@ -1,6 +1,6 @@
 
 # 💰 Conversor de Moedas
-<img width="1920" height="1035" alt="Image" src="https://github.com/user-attachments/assets/6d2e8a20-b982-4e5c-aea7-87d253f390d5" />
+<img width="905" height="599" alt="Image" src="https://github.com/user-attachments/assets/00c37bd5-88f7-4071-8cf9-ea4b2e826d4c" />
 
 Este projeto foi desenvolvido como parte do desafio **Oracle Next Education (ONE)** em parceria com a **Alura**.  
 O objetivo principal é praticar conceitos de **Java**, consumo de **APIs** e manipulação de **JSON**.
